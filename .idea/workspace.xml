@@ -7,7 +7,7 @@
     <list default="true" id="176e5862-66bc-4986-8c5b-d72c215f394c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello" beforeDir="false" afterPath="$PROJECT_DIR$/hello" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/hello.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/.git/config" beforeDir="false" afterPath="$PROJECT_DIR$/hello/.git/config" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello/hello.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hello/index.html" beforeDir="false" />
     </list>
@@ -15,6 +15,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671130180427</updated>
-      <workItem from="1671130181613" duration="4676000" />
+      <workItem from="1671130181613" duration="7365000" />
     </task>
     <servers />
   </component>
